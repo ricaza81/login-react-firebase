@@ -168,7 +168,7 @@ const Login = ({ history }) => {
                 </div>
             </Content>
             <Footer style={{ textAlign: "center" }}>
-                Creado por Nicolás Morales
+                Desarrollado por ...
             </Footer>
         </Layout>
     );
